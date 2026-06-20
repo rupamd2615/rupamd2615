@@ -1,7 +1,7 @@
-👯 Looking to collaborate on Open-source AI/ML projects, innovative web experiences, and impactful design systems.<br>⚡ I studied Computer Science, work as a designer, and somehow enjoy both training neural networks and obsessing over pixel-perfect layouts.
+## Hi there 👋
+<h2> Hi, I'm Rupam Das!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+<p><em>🔥Developing out of passion! </br>✒️UI/UX Designer by Profession</em></p>
 
-
-### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rupamdux) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rupamdux) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rupamdux) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rupamdux) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:drupam2003@gmail.com) 
 
 ### 💻 Tech Stack:
