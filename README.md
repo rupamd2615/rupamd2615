@@ -1,4 +1,3 @@
-## Hi there 👋
 <h2> Hi, I'm Rupam Das!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 <p><em>🔥Developing out of passion! </br>✒️UI/UX Designer by Profession</em></p>
 
